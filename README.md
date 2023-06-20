@@ -1,1 +1,1 @@
-Visit the site at: http://connnectgpt.tech/
+Visit the site at: http://connectgpt.tech/
