@@ -11,8 +11,8 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
           <a href="https://www.producthunt.com/posts/connect-gpt?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-connect&#0045;gpt" target="_blank">
-          <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=400977&theme=dark" alt="Connect&#0032;GPT - Not&#0032;just&#0032;another&#0032;24x7&#0032;Support&#0032;AI&#0032;bot&#0032;for&#0032;your&#0032;customers | Product Hunt" 
-    style={{width: "250px", height: "54px"}} width="250" height="54" rel="noopener noreferrer"/></a>
+          ⬆️ Find us on ProductHunt
+          </a>
             <p className="text-center text-base text-body-color dark:text-white">
              admin@connectgpt.tech <br/>
              twitter.com/ConnectGptSaas
