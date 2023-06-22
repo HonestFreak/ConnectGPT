@@ -10,7 +10,7 @@ const Footer = () => {
       >
         <div className="bg-primary/10 py-8">
           <div className="container">
-          <a href="https://www.producthunt.com/posts/connect-gpt?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-connect&#0045;gpt" target="_blank">
+          <a href="https://www.producthunt.com/posts/connect-gpt?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-connect&#0045;gpt">
           ⬆️ Find us on ProductHunt
           </a>
             <p className="text-center text-base text-body-color dark:text-white">
